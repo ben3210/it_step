@@ -1,0 +1,5 @@
+Hello world
+This is a sample text
+Let's compare line
+Python is awesome
+End of file

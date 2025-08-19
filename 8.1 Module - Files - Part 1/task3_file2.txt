@@ -1,0 +1,7 @@
+Hello world
+This is a sample text
+Let's compare lines
+Python is great
+End of file
+Adding a new line at the end
+Adding a new line at the end

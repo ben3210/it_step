@@ -1,0 +1,6 @@
+Number of
+Characters: 147
+Lines: 8
+Vowels: 41
+Consonants: 68
+Digits: 4
